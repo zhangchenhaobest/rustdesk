@@ -1,3 +1,29 @@
+# rustdesk
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源自托管远程桌面应用，可替代 TeamViewer。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="res/logo-header.svg" alt="RustDesk - Your remote desktop"><br>
   <a href="#raw-steps-to-build">Build</a> •
